@@ -8,6 +8,7 @@ sites:
     ipv6: true
 
 status-website:
+  apiBaseUrl: https://api.github.com
   baseUrl: /upptime-tutorial
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
